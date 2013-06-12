@@ -1,2 +1,3 @@
 #!/bin/sh
-gcc test.c test 
+gcc -o test test.c
+./test > out.txt 
