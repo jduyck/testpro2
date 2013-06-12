@@ -2,5 +2,5 @@
 #include<stdio.h>
 main()
 {
-	printf("Hello Mr. World, nice day?");
+	printf("Hello Mr. World, nice day we're having?");
 }
