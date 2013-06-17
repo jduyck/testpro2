@@ -1,4 +1,4 @@
 #!/bin/sh
 gcc -o test test.c
-./test > out.csv
+./test > out.txt
 echo 0 
